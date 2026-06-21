@@ -1,4 +1,8 @@
-# ⚡ AI Self-Healing Microgrid
+<p align="center">
+  <img src="screenshots/Dashboard.png" width="100%">
+</p>
+
+#  AI Self-Healing Microgrid
 
 An AI-powered Self-Healing Smart Microgrid platform that automatically detects faults, analyzes affected grid nodes, predicts restoration strategies, and restores power distribution using intelligent decision-making.
 
